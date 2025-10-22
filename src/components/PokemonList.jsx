@@ -25,3 +25,4 @@ function PokemonList({ pokemons, loading, onSelectPokemon }) {
 }
 
 export default PokemonList;
+//* --- IGNORAR --- */

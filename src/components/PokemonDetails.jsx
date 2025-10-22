@@ -80,3 +80,4 @@ function PokemonDetails({ pokemon, onClose }) {
 }
 
 export default PokemonDetails;
+//* --- IGNORAR --- */

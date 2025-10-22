@@ -30,3 +30,4 @@ function SearchForm({ onSearch }) {
 }
 
 export default SearchForm;
+//* --- IGNORAR --- */
